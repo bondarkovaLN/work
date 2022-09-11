@@ -1,0 +1,15 @@
+C:\Users\xriss\Desktop\pr1mass\work-4\bin\Debug\net6.0\work-4.exe
+C:\Users\xriss\Desktop\pr1mass\work-4\bin\Debug\net6.0\work-4.deps.json
+C:\Users\xriss\Desktop\pr1mass\work-4\bin\Debug\net6.0\work-4.runtimeconfig.json
+C:\Users\xriss\Desktop\pr1mass\work-4\bin\Debug\net6.0\work-4.dll
+C:\Users\xriss\Desktop\pr1mass\work-4\bin\Debug\net6.0\work-4.pdb
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.csproj.AssemblyReference.cache
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.AssemblyInfoInputs.cache
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.AssemblyInfo.cs
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.csproj.CoreCompileInputs.cache
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.dll
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\refint\work-4.dll
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.pdb
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\work-4.genruntimeconfig.cache
+C:\Users\xriss\Desktop\pr1mass\work-4\obj\Debug\net6.0\ref\work-4.dll
